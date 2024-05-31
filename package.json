@@ -1,6 +1,6 @@
 {
-  "name": "react-jw-player",
-  "version": "1.19.1",
+  "name": "react-jw-player-mbi",
+  "version": "1.0.0",
   "description": "A React component for launching JW Player instances on the client.",
   "main": "dist/react-jw-player.js",
   "scripts": {
@@ -25,12 +25,12 @@
     "autoplay",
     "events"
   ],
-  "author": "Mic Network, Inc.",
+  "author": "Hari Nandan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/micnews/react-jw-player/issues"
+    "url": "https://github.com/deltrexgg/react-jw-player-mbi/issues"
   },
-  "homepage": "https://github.com/micnews/react-jw-player#readme",
+  "homepage": "https://github.com/deltrexgg/react-jw-player-mbi#readme",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-eslint": "^7.2.3",
